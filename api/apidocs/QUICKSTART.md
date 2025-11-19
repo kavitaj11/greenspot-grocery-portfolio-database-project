@@ -21,7 +21,7 @@ This REST API provides comprehensive analytics endpoints for the Greenspot Groce
 ### 1. Start the API Server
 ```bash
 cd api
-python greenspot_api_final.py
+python main.py
 ```
 
 The server will start on `http://localhost:8000`
