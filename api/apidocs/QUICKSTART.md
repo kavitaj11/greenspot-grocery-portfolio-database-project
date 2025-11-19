@@ -30,7 +30,7 @@ The server will start on `http://localhost:8000`
 Open a new terminal and run:
 ```bash
 cd api
-python final_test.py
+python tests/final_test.py
 ```
 
 ### 3. Interactive Documentation
@@ -51,13 +51,13 @@ Visit `http://localhost:8000/docs` in your browser for the interactive Swagger U
 ### Password Management
 ```bash
 # Encrypt a new password
-python utils/password_manager_updated.py encrypt
+python utils/password_manager.py encrypt
 
 # Change database password
-python utils/password_manager_updated.py change-db
+python utils/password_manage.py change-db
 
 # Test encryption/decryption
-python utils/password_manager_updated.py test
+python utils/password_manage.py test
 ```
 
 ## 📊 API Endpoints
