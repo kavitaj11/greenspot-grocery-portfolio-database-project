@@ -1,0 +1,4 @@
+vendor_id,vendor_name,total_orders,total_quantity_ordered,total_spent,avg_unit_cost,last_order_date
+2,Freshness,5,130.0,106.2,1.096,2022-02-15
+3,Ruby Redd Produce,2,45.0,76.05,1.74,2022-02-12
+1,Bennet Farms,1,25.0,58.75,2.35,2022-02-01

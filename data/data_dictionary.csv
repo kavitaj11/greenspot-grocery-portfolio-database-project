@@ -1,0 +1,6 @@
+Table,File,Description,Key Fields,Use Cases
+Products,products_20251118.csv,Master product catalog with categories and vendor information,"product_id, product_name, category_name, unit_of_measure, location_code","Product management, catalog analysis, inventory planning"
+Sales Summary,sales_summary_view_20251118.csv,Aggregated sales performance metrics by product,"product_name, total_revenue, total_transactions, avg_price","Sales analysis, product performance, revenue reporting"
+Inventory,inventory_20251118.csv,Current stock levels with reorder status,"product_name, quantity_on_hand, reorder_level, stock_status","Inventory management, reorder planning, stock optimization"
+Vendors,vendors_20251118.csv,Supplier contact information and addresses,"vendor_name, address, city, state, zip_code","Vendor management, supplier analysis, procurement planning"
+Sales Transactions,sales_transactions_20251118.csv,Individual customer purchase records,"product_name, customer_name, quantity_sold, sale_date, total_amount","Customer analysis, transaction tracking, sales trends"

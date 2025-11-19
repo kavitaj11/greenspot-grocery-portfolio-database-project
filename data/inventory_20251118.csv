@@ -1,0 +1,8 @@
+inventory_id,product_id,product_name,category_name,quantity_on_hand,reorder_level,max_stock_level,stock_status,last_updated
+1,1000,Bennet Farm free-range eggs,Dairy,29,10,100,ADEQUATE,2025-11-18 21:32:37
+2,1100,Freshness White beans,Canned,53,10,100,ADEQUATE,2025-11-18 21:32:37
+3,1222,Freshness Green beans,Canned,59,10,100,ADEQUATE,2025-11-18 21:32:37
+4,1223,Freshness Green beans,Canned,12,10,100,LOW STOCK,2025-11-18 21:32:37
+5,1224,Freshness Wax beans,Canned,31,10,100,ADEQUATE,2025-11-18 21:32:37
+6,2000,Ruby's Kale,Produce,28,10,100,ADEQUATE,2025-11-18 21:32:37
+7,2001,Ruby's Organic Kale,Produce,20,10,100,ADEQUATE,2025-11-18 21:32:37

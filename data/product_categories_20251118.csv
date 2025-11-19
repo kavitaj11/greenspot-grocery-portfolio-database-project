@@ -1,0 +1,11 @@
+category_id,category_name,description,created_at
+1,Dairy,"Milk, eggs, cheese, and other dairy products",2025-11-18 21:31:38
+2,Produce,Fresh fruits and vegetables,2025-11-18 21:31:38
+3,Canned,Canned and preserved goods,2025-11-18 21:31:38
+4,Meat,Fresh and frozen meat products,2025-11-18 21:31:38
+5,Bakery,"Bread, pastries, and baked goods",2025-11-18 21:31:38
+6,Frozen,Frozen food products,2025-11-18 21:31:38
+7,Pantry,Dry goods and pantry staples,2025-11-18 21:31:38
+8,Beverages,Drinks and beverages,2025-11-18 21:31:38
+9,Snacks,Snack foods and confectionery,2025-11-18 21:31:38
+10,Health,Health and wellness products,2025-11-18 21:31:38

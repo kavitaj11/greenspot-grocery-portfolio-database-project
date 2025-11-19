@@ -1,0 +1,14 @@
+transaction_id,product_name,category_name,customer_name,quantity_sold,unit_price,total_amount,sale_date,transaction_time,payment_method,created_at
+13,Ruby's Kale,Produce,Customer 111000,2,3.99,7.98,2022-02-15,0 days 21:32:37,cash,2025-11-18 21:32:37
+12,Ruby's Organic Kale,Produce,Customer 202900,12,6.99,83.88,2022-02-14,0 days 21:32:37,cash,2025-11-18 21:32:37
+10,Freshness Green beans,Canned,Customer 198765,5,3.49,17.45,2022-02-13,0 days 21:32:37,cash,2025-11-18 21:32:37
+11,Ruby's Organic Kale,Produce,Customer 100988,1,6.99,6.99,2022-02-13,0 days 21:32:37,cash,2025-11-18 21:32:37
+8,Freshness Green beans,Canned,Customer 111000,12,1.29,15.48,2022-02-12,0 days 21:32:37,cash,2025-11-18 21:32:37
+9,Freshness Wax beans,Canned,,8,1.55,12.4,2022-02-12,0 days 21:32:37,cash,2025-11-18 21:32:37
+6,Bennet Farm free-range eggs,Dairy,Customer 277177,4,5.49,21.96,2022-02-11,0 days 21:32:37,cash,2025-11-18 21:32:37
+7,Freshness White beans,Canned,,4,1.49,5.96,2022-02-11,0 days 21:32:37,cash,2025-11-18 21:32:37
+5,Freshness White beans,Canned,Customer 198765,8,1.49,11.92,2022-02-07,0 days 21:32:37,cash,2025-11-18 21:32:37
+4,Bennet Farm free-range eggs,Dairy,Customer 196777,2,5.99,11.98,2022-02-04,0 days 21:32:37,cash,2025-11-18 21:32:37
+1,Bennet Farm free-range eggs,Dairy,Customer 198765,2,5.49,10.98,2022-02-02,0 days 21:32:37,cash,2025-11-18 21:32:37
+2,Ruby's Kale,Produce,,2,3.99,7.98,2022-02-02,0 days 21:32:37,cash,2025-11-18 21:32:37
+3,Freshness White beans,Canned,Customer 202900,2,1.49,2.98,2022-02-02,0 days 21:32:37,cash,2025-11-18 21:32:37

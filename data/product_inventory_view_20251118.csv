@@ -1,0 +1,8 @@
+product_id,product_name,category_name,unit_of_measure,location_code,quantity_on_hand,reorder_level,primary_vendor
+1222,Freshness Green beans,Canned,12 oz can,A3,59,10,Freshness
+1223,Freshness Green beans,Canned,36 oz can,A7,12,10,Freshness
+1224,Freshness Wax beans,Canned,12 oz can,A3,31,10,Freshness
+1100,Freshness White beans,Canned,12 oz can,A2,53,10,Freshness
+1000,Bennet Farm free-range eggs,Dairy,dozen,D12,29,10,Bennet Farms
+2000,Ruby's Kale,Produce,bunch,P12,28,10,Ruby Redd Produce
+2001,Ruby's Organic Kale,Produce,bunch,PO2,20,10,Ruby Redd Produce
